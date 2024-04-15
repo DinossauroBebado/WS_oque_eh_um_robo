@@ -1,0 +1,48 @@
+- Ciclo Ver -Pensar - agir 
+
+
+
+Ver 
+    Sensores -> 
+        Tipo de sensores 
+        Distancia 
+        Temp 
+        Encoder 
+        Lidar 
+    Processamento -> 
+        Filtros 
+        Localização
+            Odom 
+            Slam 
+    
+Pensar   
+        Maquina de estados 
+        PID 
+        Processamento 
+        Path Plating 
+        MicroControladores 
+
+Agir   
+        Motores 
+            escovado 
+            Brushless 
+        
+        Ponte H 
+        ESC 
+        
+        direção de ackerman
+        
+        4wd 
+        Cinematica 
+
+Conclusão 
+
+        Integração da areas 
+        Debugar 
+        Ferramentas 
+
+        
+
+
+
+
